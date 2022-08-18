@@ -1,7 +1,7 @@
 -----
 
 <p align="center">
-<img src="https://discord.com/channels/992039114121695343/1008806843818197094/1009905882022297622", width="500", height="500">
+<img src="https://github.com/ZeusFuckYou/images-zeus/blob/main/image_2022-08-18_222834086.png?raw=true", width="500", height="500">
 </p>
 
 -----
@@ -18,7 +18,7 @@ The problem is that the tools have been patched,
 But you can try to modify the script to make it work..
 <br><br><br>
 </strong>
-<img src="https://cdn.discordapp.com/attachments/1008806843818197094/1009907038500950117/unknown.png" width="500", height="400">
+<img src="https://github.com/ZeusFuckYou/images-zeus/blob/main/image_2022-08-18_222818407.png?raw=true" width="500", height="400">
 </p>
 <br>
 
