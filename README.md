@@ -18,7 +18,7 @@ The problem is that the tools have been patched,
 But you can try to modify the script to make it work..
 <br><br><br>
 </strong>
-<img src="https://github.com/ZeusFuckYou/images-zeus/blob/main/image_2022-08-18_222818407.png?raw=true" width="500", height="400">
+<img src="https://github.com/ZeusFuckYou/images-zeus/blob/main/image_2022-08-18_222818407.png?raw=true" width="720", height="400">
 </p>
 <br>
 
